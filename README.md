@@ -1,2 +1,7 @@
-# Gravitalia
-This is the realeases of Gravitalia
+<h1 align="center">Gravitalia</h1>
+<hr>
+<h3 align="center">Use our code</h3>
+<p>For use our code, you need in first, to install <a href="https://nodejs.org/en/">NODE.JS</a><br>Install <a href="https://electronjs.org">Electron</a> & <a href="https://www.electronforge.io/">Electron-Forge</a></p>
+
+<h4>Don't forget to add a star :)</h4>
+<h6>PS: I know, the code is ugly and not optimised</h6>
