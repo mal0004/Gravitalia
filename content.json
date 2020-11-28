@@ -1,0 +1,11 @@
+{
+    "name": "facteurs",
+    "description": "Allows you to make fractions!",
+    "author": "Zuso <Gravitalia>",
+    "badge": {
+        "color": "info",
+        "name": "Beta"
+    },
+    "path": "/index.html",
+    "icon": "/icon.jpg"
+}
